@@ -2,7 +2,7 @@
 - 👀 I’m interested in React, JavaScript
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on Full Stack Web Developer
-- 📫 How to reach me https://www.linkedin.com/in/hemalatha-s-474b69209/
+- 📫 How to reach me hemalathasm04@gmail.com
   
 
 
